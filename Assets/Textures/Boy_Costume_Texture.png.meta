@@ -1,0 +1,2568 @@
+fileFormatVersion: 2
+guid: 81545b22a019348b18ac09ba92d3e6fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6265082147830936954
+    second: Boy_Costume_Texture_0
+  - first:
+      213: -7809613601300350390
+    second: Boy_Costume_Texture_1
+  - first:
+      213: -8504907068310741013
+    second: Boy_Costume_Texture_2
+  - first:
+      213: -1174801808525698491
+    second: Boy_Costume_Texture_3
+  - first:
+      213: 3223433664267715393
+    second: Boy_Costume_Texture_4
+  - first:
+      213: -7869381631983014976
+    second: Boy_Costume_Texture_5
+  - first:
+      213: -729932416808343108
+    second: Boy_Costume_Texture_6
+  - first:
+      213: 2549584614103984393
+    second: Boy_Costume_Texture_7
+  - first:
+      213: -7018614444801515088
+    second: Boy_Costume_Texture_8
+  - first:
+      213: 895361887309418991
+    second: Boy_Costume_Texture_9
+  - first:
+      213: 5461461065872767564
+    second: Boy_Costume_Texture_10
+  - first:
+      213: 169220473701638952
+    second: Boy_Costume_Texture_11
+  - first:
+      213: 5130836237881248781
+    second: Boy_Costume_Texture_12
+  - first:
+      213: 8986009833848975727
+    second: Boy_Costume_Texture_13
+  - first:
+      213: -5311067271248335267
+    second: Boy_Costume_Texture_14
+  - first:
+      213: -2461966142839073359
+    second: Boy_Costume_Texture_15
+  - first:
+      213: -6965092338752725062
+    second: Boy_Costume_Texture_16
+  - first:
+      213: -5252668628491253231
+    second: Boy_Costume_Texture_17
+  - first:
+      213: 1321938215914039349
+    second: Boy_Costume_Texture_18
+  - first:
+      213: -7853303928064579934
+    second: Boy_Costume_Texture_19
+  - first:
+      213: -1970976407444022349
+    second: Boy_Costume_Texture_20
+  - first:
+      213: 5177442275167685506
+    second: Boy_Costume_Texture_21
+  - first:
+      213: -2105729871819357330
+    second: Boy_Costume_Texture_22
+  - first:
+      213: -5329622964941349160
+    second: Boy_Costume_Texture_24
+  - first:
+      213: -2059595575451280178
+    second: Boy_Costume_Texture_25
+  - first:
+      213: 4051252756583337259
+    second: Boy_Costume_Texture_26
+  - first:
+      213: -3500788537969746810
+    second: Boy_Costume_Texture_27
+  - first:
+      213: -7652064403554709681
+    second: Boy_Costume_Texture_23
+  - first:
+      213: -4305512562686567317
+    second: Boy_Costume_Texture_28
+  - first:
+      213: 2716337240727514934
+    second: Boy_Costume_Texture_29
+  - first:
+      213: -4088199558677604005
+    second: Boy_Costume_Texture_30
+  - first:
+      213: 666098632010852478
+    second: Boy_Costume_Texture_31
+  - first:
+      213: 4164122093286180964
+    second: Boy_Costume_Texture_32
+  - first:
+      213: -4305054601235672789
+    second: Boy_Costume_Texture_33
+  - first:
+      213: 8399539396522639136
+    second: Boy_Costume_Texture_34
+  - first:
+      213: 8521415221322915265
+    second: Boy_Costume_Texture_35
+  - first:
+      213: 3343499821612419120
+    second: Boy_Costume_Texture_36
+  - first:
+      213: -8060065130401732100
+    second: Boy_Costume_Texture_37
+  - first:
+      213: 1567125997618166166
+    second: Boy_Costume_Texture_38
+  - first:
+      213: 3474759263276667577
+    second: Boy_Costume_Texture_39
+  - first:
+      213: -5781540811390844640
+    second: Boy_Costume_Texture_40
+  - first:
+      213: 8423426280150386406
+    second: Boy_Costume_Texture_41
+  - first:
+      213: 3185019369241841741
+    second: Boy_Costume_Texture_42
+  - first:
+      213: -2702278925832623682
+    second: Boy_Costume_Texture_43
+  - first:
+      213: -6408547004564032505
+    second: Boy_Costume_Texture_44
+  - first:
+      213: 1734986031645003422
+    second: Boy_Costume_Texture_45
+  - first:
+      213: 5326263866466368334
+    second: Boy_Costume_Texture_46
+  - first:
+      213: -5800240257830082437
+    second: Boy_Costume_Texture_47
+  - first:
+      213: -4147988800101016760
+    second: Boy_Costume_Texture_48
+  - first:
+      213: 5441381339014222429
+    second: Boy_Costume_Texture_49
+  - first:
+      213: 1895260046971719451
+    second: Boy_Costume_Texture_50
+  - first:
+      213: 4559835757600469148
+    second: Boy_Costume_Texture_51
+  - first:
+      213: -4520228623365928724
+    second: Boy_Costume_Texture_52
+  - first:
+      213: 8185319444184072347
+    second: Boy_Costume_Texture_53
+  - first:
+      213: 1176018514491116817
+    second: Boy_Costume_Texture_55
+  - first:
+      213: 6521356134956749017
+    second: Boy_Costume_Texture_56
+  - first:
+      213: -8679064295502135288
+    second: Boy_Costume_Texture_54
+  - first:
+      213: -7132920249389765448
+    second: Boy_Costume_Texture_57
+  - first:
+      213: 697871283177425141
+    second: Boy_Costume_Texture_58
+  - first:
+      213: -1071136584864875888
+    second: Boy_Costume_Texture_59
+  - first:
+      213: 7440566827362997199
+    second: Boy_Costume_Texture_60
+  - first:
+      213: 8526088556712778481
+    second: Boy_Costume_Texture_61
+  - first:
+      213: 5846254190478310701
+    second: Boy_Costume_Texture_62
+  - first:
+      213: 7750355178810277578
+    second: Boy_Costume_Texture_63
+  - first:
+      213: -1946781434482257880
+    second: Boy_Costume_Texture_64
+  - first:
+      213: 6669086788047661146
+    second: Boy_Costume_Texture_65
+  - first:
+      213: -2768049943808645349
+    second: Boy_Costume_Texture_66
+  - first:
+      213: -5995048309658252853
+    second: Boy_Costume_Texture_67
+  - first:
+      213: -5533615144365162740
+    second: Boy_Costume_Texture_68
+  - first:
+      213: 7679617231365729158
+    second: Boy_Costume_Texture_69
+  - first:
+      213: -6696758904292800428
+    second: Boy_Costume_Texture_70
+  - first:
+      213: 5153382471130626726
+    second: Boy_Costume_Texture_71
+  - first:
+      213: -5816593539482475748
+    second: Boy_Costume_Texture_72
+  - first:
+      213: 7029837564129514486
+    second: Boy_Costume_Texture_73
+  - first:
+      213: -8911193701604177118
+    second: Boy_Costume_Texture_74
+  - first:
+      213: 5688376850180127002
+    second: Boy_Costume_Texture_75
+  - first:
+      213: -5262188479348863179
+    second: Boy_Costume_Texture_76
+  - first:
+      213: 5116437097151562470
+    second: Boy_Costume_Texture_77
+  - first:
+      213: -1620082849241266054
+    second: Boy_Costume_Texture_78
+  - first:
+      213: -8353999955792832158
+    second: Boy_Costume_Texture_79
+  - first:
+      213: -3103542407307516199
+    second: Boy_Costume_Texture_80
+  - first:
+      213: -2094121787263983309
+    second: Boy_Costume_Texture_81
+  - first:
+      213: -1965144268874945305
+    second: Boy_Costume_Texture_82
+  - first:
+      213: -5225613458779223210
+    second: Boy_Costume_Texture_83
+  - first:
+      213: -1913577475827108867
+    second: Boy_Costume_Texture_84
+  - first:
+      213: 5679822560888940849
+    second: Boy_Costume_Texture_85
+  - first:
+      213: 7260578005374790303
+    second: Boy_Costume_Texture_86
+  - first:
+      213: -3896336992708085703
+    second: Boy_Costume_Texture_87
+  - first:
+      213: -8032556984515260055
+    second: Boy_Costume_Texture_88
+  - first:
+      213: 6833682237228923109
+    second: Boy_Costume_Texture_89
+  - first:
+      213: 7189221944101038605
+    second: Boy_Costume_Texture_90
+  - first:
+      213: 183798877176028939
+    second: Boy_Costume_Texture_91
+  - first:
+      213: 5874781316981300239
+    second: Boy_Costume_Texture_92
+  - first:
+      213: -6418008005351811539
+    second: Boy_Costume_Texture_93
+  - first:
+      213: 6985559975904557313
+    second: Boy_Costume_Texture_94
+  - first:
+      213: -8392413906136476661
+    second: Boy_Costume_Texture_95
+  - first:
+      213: 2929677589146891726
+    second: Boy_Costume_Texture_96
+  - first:
+      213: 1664825242890145308
+    second: Boy_Costume_Texture_97
+  - first:
+      213: 4973402711406722289
+    second: Boy_Costume_Texture_98
+  - first:
+      213: 8884572300743113175
+    second: Boy_Costume_Texture_99
+  - first:
+      213: 4390931733647576744
+    second: Boy_Costume_Texture_100
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 629
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75ba16050b02f650800000000000000
+      internalID: 6265082147830936954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 628
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4afe658ecdae9390800000000000000
+      internalID: -7809613601300350390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 629
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef11a1151088f980800000000000000
+      internalID: -8504907068310741013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 629
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ad651caf342bfe0800000000000000
+      internalID: -1174801808525698491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 629
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14386b3d6dfebbc20800000000000000
+      internalID: 3223433664267715393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 577
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb2ba779175ac290800000000000000
+      internalID: -7869381631983014976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 576
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9a8129552ced5f0800000000000000
+      internalID: -729932416808343108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 577
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9092870c2b1f16320800000000000000
+      internalID: 2549584614103984393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 576
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b12e22495fd89e90800000000000000
+      internalID: -7018614444801515088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 576
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1508684e6fc6c00800000000000000
+      internalID: 895361887309418991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_10
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 577
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4af8f147e10bcb40800000000000000
+      internalID: 5461461065872767564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 577
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823a5bfcf11395200800000000000000
+      internalID: 169220473701638952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 525
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c0d9fbf54643740800000000000000
+      internalID: 5130836237881248781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 526
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f613cbe7558b4bc70800000000000000
+      internalID: 8986009833848975727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 525
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e2a0fb47c4b46b0800000000000000
+      internalID: -5311067271248335267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 525
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5d90f46d655ddd0800000000000000
+      internalID: -2461966142839073359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 526
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf59d8ab65075f90800000000000000
+      internalID: -6965092338752725062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 525
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ac0f356b5ca17b0800000000000000
+      internalID: -5252668628491253231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_18
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 524
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538e19eadc7785210800000000000000
+      internalID: 1321938215914039349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_19
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 514
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6e78e9fa5730390800000000000000
+      internalID: -7853303928064579934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 465
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb9f9d666fa5a4e0800000000000000
+      internalID: -1970976407444022349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 466
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bc5786158f9d740800000000000000
+      internalID: 5177442275167685506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 466
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63474596d1f6c2e0800000000000000
+      internalID: -2105729871819357330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 465
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de18e3a6206906b0800000000000000
+      internalID: -5329622964941349160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_25
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 466
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc92408cb8da63e0800000000000000
+      internalID: -2059595575451280178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_26
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 466
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dc87beae0f83830800000000000000
+      internalID: 4051252756583337259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 466
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cdd886f53ba6fc0800000000000000
+      internalID: -3500788537969746810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_23
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 463
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fc5b3a7f76ec590800000000000000
+      internalID: -7652064403554709681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_28
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 463
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cd515c22fbf34c0800000000000000
+      internalID: -4305512562686567317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 415
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f6ab3245e52b520800000000000000
+      internalID: 2716337240727514934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_30
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 414
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59dc1e592cc347c0800000000000000
+      internalID: -4088199558677604005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 414
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78616a3d257e3900800000000000000
+      internalID: 666098632010852478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_32
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 413
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468cdab3bfee9c930800000000000000
+      internalID: 4164122093286180964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_33
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 413
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21dfaa36af5144c0800000000000000
+      internalID: -4305054601235672789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_34
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 414
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f71a61498219470800000000000000
+      internalID: 8399539396522639136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_35
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 414
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd1f82def5224670800000000000000
+      internalID: 8521415221322915265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_36
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 409
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0384ac58f5f766e20800000000000000
+      internalID: 3343499821612419120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_37
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 410
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf964ebc775e42090800000000000000
+      internalID: -8060065130401732100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_38
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 359
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6997f46bacc8fb510800000000000000
+      internalID: 1567125997618166166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_39
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 359
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b29a9fc323d83030800000000000000
+      internalID: 3474759263276667577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_40
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 308
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02100a29347d3cfa0800000000000000
+      internalID: -5781540811390844640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_41
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 307
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6cd04929506e470800000000000000
+      internalID: 8423426280150386406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_42
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 257
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40166acd36733c20800000000000000
+      internalID: 3185019369241841741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_43
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 258
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9e8bd52a39f7ad0800000000000000
+      internalID: -2702278925832623682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_44
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 206
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704319a04744017a0800000000000000
+      internalID: -6408547004564032505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 206
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e077a7a98e31810800000000000000
+      internalID: 1734986031645003422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_46
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 155
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bf9bc44c0bae940800000000000000
+      internalID: 5326263866466368334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_47
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 156
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b782e1c6738618fa0800000000000000
+      internalID: -5800240257830082437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_48
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 104
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b1eadc9226f66c0800000000000000
+      internalID: -4147988800101016760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_49
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 104
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52d1678f7ba38b40800000000000000
+      internalID: 5441381339014222429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_50
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 53
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f4db0a8f05d4a10800000000000000
+      internalID: 1895260046971719451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_51
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 53
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9076e5667ac74f30800000000000000
+      internalID: 4559835757600469148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_52
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce888b8240ce441c0800000000000000
+      internalID: -4520228623365928724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_53
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9080b3baa8189170800000000000000
+      internalID: 8185319444184072347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_55
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2
+        width: 102
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d868dab9e025010800000000000000
+      internalID: 1176018514491116817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_56
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 262
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d059e56ad2808a50800000000000000
+      internalID: 6521356134956749017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_54
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 261
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800c1d3c105cd8780800000000000000
+      internalID: -8679064295502135288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_57
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 314
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcaee333d6c20d90800000000000000
+      internalID: -7132920249389765448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_58
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 313
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f88cbc0c365fa900800000000000000
+      internalID: 697871283177425141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_59
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 365
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a343183fe8221f0800000000000000
+      internalID: -1071136584864875888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_60
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 364
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3d6809b14324760800000000000000
+      internalID: 7440566827362997199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_61
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 364
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa53628e50c25670800000000000000
+      internalID: 8526088556712778481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_62
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 364
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d39122631122150800000000000000
+      internalID: 5846254190478310701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_63
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 365
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace7814d8face8b60800000000000000
+      internalID: 7750355178810277578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_64
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 365
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8201c5e8994abf4e0800000000000000
+      internalID: -1946781434482257880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 365
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58e4d1791b5d8c50800000000000000
+      internalID: 6669086788047661146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 313
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17eebaed39e599d0800000000000000
+      internalID: -2768049943808645349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_67
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 313
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc98383535f4dcca0800000000000000
+      internalID: -5995048309658252853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_68
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 313
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f74643856a433b0800000000000000
+      internalID: -5533615144365162740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_69
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 312
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68be58efe2b739a60800000000000000
+      internalID: 7679617231365729158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_70
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 312
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458813be1455013a0800000000000000
+      internalID: -6696758904292800428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_71
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 262
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa377fbd0e748740800000000000000
+      internalID: 5153382471130626726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_72
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 262
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13a0545efe474fa0800000000000000
+      internalID: -5816593539482475748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_73
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 262
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f313a6d4000f8160800000000000000
+      internalID: 7029837564129514486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_74
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 262
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b4f2bba84155480800000000000000
+      internalID: -8911193701604177118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 262
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19ba8f5b9c21fe40800000000000000
+      internalID: 5688376850180127002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 206
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f02435573f8f6b0800000000000000
+      internalID: -5262188479348863179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_77
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 206
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2895b8e6c310740800000000000000
+      internalID: 5116437097151562470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_78
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 207
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7885407b3f4489e0800000000000000
+      internalID: -1620082849241266054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_79
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 207
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269d6553d41a01c80800000000000000
+      internalID: -8353999955792832158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_80
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 207
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d62313bf900ee4d0800000000000000
+      internalID: -3103542407307516199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 156
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33169b1645f20f2e0800000000000000
+      internalID: -2094121787263983309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_82
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 156
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec605103b76ab4e0800000000000000
+      internalID: -1965144268874945305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_83
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 157
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bc6f7ee34ea77b0800000000000000
+      internalID: -5225613458779223210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_84
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 156
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3f22f9c6b9175e0800000000000000
+      internalID: -1913577475827108867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_85
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 156
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139e801b688c2de40800000000000000
+      internalID: 5679822560888940849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ae06a4a31c2c460800000000000000
+      internalID: 7260578005374790303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_87
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 104
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938bb68162e6de9c0800000000000000
+      internalID: -3896336992708085703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_88
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 105
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96192eb1bff968090800000000000000
+      internalID: -8032556984515260055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_89
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 104
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e83de1d9cd16de50800000000000000
+      internalID: 6833682237228923109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_90
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 105
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ae59d944f35c360800000000000000
+      internalID: 7189221944101038605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_91
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 53
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f5130ea1cfc8200800000000000000
+      internalID: 183798877176028939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_92
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 53
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c95cb5b7a678150800000000000000
+      internalID: 5874781316981300239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_93
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 54
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26546329b7aee6a0800000000000000
+      internalID: -6418008005351811539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_94
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 54
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1093af879c1b1f060800000000000000
+      internalID: 6985559975904557313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_95
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 54
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04dfac6408288b80800000000000000
+      internalID: -8392413906136476661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5f587ce3e48a820800000000000000
+      internalID: 2929677589146891726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_97
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e029fdcb5aa1710800000000000000
+      internalID: 1664825242890145308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_98
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcbc527a63150540800000000000000
+      internalID: 4973402711406722289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_99
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9711f5f675c4b70800000000000000
+      internalID: 8884572300743113175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy_Costume_Texture_100
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aecd09c529bfec30800000000000000
+      internalID: 4390931733647576744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 515835ebc37c542808547196941c2ed7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
